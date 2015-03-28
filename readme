@@ -6,3 +6,7 @@ git init
 git add <filename>
 git add --all
 git status
+git push
+git pull
+git clone
+
