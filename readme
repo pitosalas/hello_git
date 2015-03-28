@@ -1,1 +1,8 @@
 HELLO THERE THIS IS MY README FILE
+
+COMMANDS TO KNOW IN GIT
+
+git init
+git add <filename>
+git add --all
+git status
