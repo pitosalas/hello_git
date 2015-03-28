@@ -6,6 +6,12 @@ puts "what is up"
 
 
 
-
 puts "Joelle did this"
 puts "Michael"
+
+puts "hi there"
+
+puts "Michael"
+
+puts "codestellation"
+
