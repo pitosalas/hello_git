@@ -1,2 +1,6 @@
 puts "Hello World"
+<<<<<<< HEAD
+=======
 puts "Ruby is really fun"
+puts "what is up"
+>>>>>>> 9d64cbe7ff5e56e95093bed876219cc9c4f9ffff
